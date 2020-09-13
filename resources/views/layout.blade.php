@@ -17,7 +17,7 @@
 <body>
 <div class="container">
     <div class="row">
-        <div class="heading mx-auto"><h2>Order System</h2></div>
+        <div class="heading mx-auto mt-2"><h2>Order System</h2></div>
     </div>
     @include('block/grid-form')
     <div id="order-grid">

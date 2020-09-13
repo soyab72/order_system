@@ -11,7 +11,7 @@
                 <input type="number" class="form-control" id="column-number" placeholder="Enter column number">
                 <span class="text-danger" id="column-validate"></span>
             </div>
-            <div class="mx-auto">
+            <div class="mx-auto text-center">
                 <button type="button" id="generate-grid" class="btn btn-primary">Submit</button>
             </div>
         </form>
